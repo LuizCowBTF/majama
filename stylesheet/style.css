@@ -169,6 +169,12 @@ body a:hover {
 	padding:0px;
 }
 
+.clearEnd {
+	clear:both;
+	margin:20px auto;
+	padding: 5px auto;
+}
+
 
 /* Text Style Start Here */
 
