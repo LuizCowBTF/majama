@@ -65,10 +65,11 @@ body a:hover {
 }
 
 .containerAll {
-	width:898px;
-	text-align:justify;
+	width:890px;
+	text-align: center;
 	padding:2px 4px;
 	margin:0px auto;
+	float: center;
 }
 
 .container-left {
@@ -125,11 +126,25 @@ body a:hover {
 	margin:0px 32px 10px 0px;
 }
 
+.containerForm {
+	width:600px;
+	text-align: center;
+	padding:2px;
+	margin:20px auto 30px auto;	
+}
+
 .contact {
 	height:172px;
 	color:#BBD8E6;
 	background:url(../images/contactbg.png) right top no-repeat;
 	padding:26px 0px 0px 35px;
+}
+
+.containerSocial {
+	width:600px;
+	text-align: center;
+	padding:2px;
+	margin:20px auto 30px auto;
 }
 
 .footer {
