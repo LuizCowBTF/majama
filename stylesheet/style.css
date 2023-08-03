@@ -66,7 +66,6 @@ body a:hover {
 
 .containerAll {
 	width:898px;
-/*	background:url(../images/container.jpg) left top no-repeat; */
 	text-align:justify;
 	padding:2px 4px;
 	margin:0px auto;
@@ -84,7 +83,7 @@ body a:hover {
 
 .banner {
 	height:329px;
-	background:url(../images/banner.jpg) left top no-repeat;
+	background:url(../images/banner.jpg) center top no-repeat;
 }
 
 .welcomezone {
@@ -325,27 +324,27 @@ a:hover {
 
 .insidebanner {
 	height:329px;
-	background:url(../images/insidebanner.png) left top no-repeat;
+	background:url(../images/insidebanner.png) center top no-repeat;
 }
 
 .concretbanner {
 	height:329px;
-	background:url(../images/concretbanner.png) left top no-repeat;
+	background:url(../images/concretbanner.png) center top no-repeat;
 }
 
 .projectbanner {
 	height:329px;
-	background:url(../images/projectbanner.png) left top no-repeat;
+	background:url(../images/projectbanner.png) center top no-repeat;
 }
 
 .servicebanner {
 	height:329px;
-	background:url(../images/servicebanner.png) left top no-repeat;
+	background:url(../images/servicebanner.png) center top no-repeat;
 }
 
 .contactbanner {
 	height:329px;
-	background:url(../images/contactbanner.png) left top no-repeat;
+	background:url(../images/contactbanner.png) center top no-repeat;
 }
 
 h5 {
