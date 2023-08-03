@@ -155,7 +155,7 @@ body a:hover {
 
 .footer-inside {
 	width:1000px;
-	margin:0px auto;
+	margin:5px auto;
 }
 
 .footer-logo-innovvatio img{
@@ -169,11 +169,6 @@ body a:hover {
 	padding:0px;
 }
 
-.clearEnd {
-	clear:both;
-	margin:20px auto;
-	padding: 5px auto;
-}
 
 
 /* Text Style Start Here */
@@ -315,6 +310,7 @@ a:hover {
 .footerlink {
 	font-weight:bold;
 	font-size:12px;
+	margin: 20px auto;
 }
 
 .footerlink ul  {
